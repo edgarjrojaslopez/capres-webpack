@@ -1,4 +1,4 @@
-# react-webpack-tailwind-template
+# Capres Webpack
 
 Empty project.
 
